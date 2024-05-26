@@ -1,0 +1,20 @@
+INFO:RequestsLogger:Info: https://www.youtube.com/
+INFO:RequestsLogger:Info: https://instagram.com
+INFO:RequestsLogger:Info: https://wikipedia.org
+INFO:RequestsLogger:Info: https://yahoo.com
+INFO:RequestsLogger:Info: https://yandex.ru
+INFO:RequestsLogger:Info: https://whatsapp.com
+INFO:RequestsLogger:Info: https://twitter.com
+INFO:RequestsLogger:Info: https://amazon.com
+INFO:RequestsLogger:Info: https://tiktok.com
+INFO:RequestsLogger:Info: https://www.ozon.ru
+INFO:RequestsLogger:Info: https://www.youtube.com/
+INFO:RequestsLogger:Info: https://instagram.com
+INFO:RequestsLogger:Info: https://wikipedia.org
+INFO:RequestsLogger:Info: https://yahoo.com
+INFO:RequestsLogger:Info: https://yandex.ru
+INFO:RequestsLogger:Info: https://whatsapp.com
+INFO:RequestsLogger:Info: https://twitter.com
+INFO:RequestsLogger:Info: https://amazon.com
+INFO:RequestsLogger:Info: https://tiktok.com
+WARNING:RequestsLogger:https://www.ozon.ru
